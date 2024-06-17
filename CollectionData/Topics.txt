@@ -1,0 +1,8 @@
+ =>TOPICS:
+  db.topic.insertMany([
+{topic_id:101,topic_name:"usestatehook",topic_date:new Date('2024-October-28'),task_id:501},
+{topic_id:102,topic_name:"Html css",topic_date:new Date('2024-November-11'),task_id:502},
+{topic_id:103,topic_name:"Redux",topic_date:new Date('2024-October-21'),task_id:503},
+{topic_id:104,topic_name:"Statemanagement",topic_date:new Date('2024-October-16'),task_id:504},
+{topic_id:105,topic_name:"Context api",topic_date:new Date('2024-August-11'),task_id:505},
+{topic_id:106,topic_name:"Async programming",topic_date:new Date('2024-August-21'),task_id:506}]);

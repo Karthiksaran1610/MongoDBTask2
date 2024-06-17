@@ -1,0 +1,8 @@
+=>TASKS:
+db.tasks.insertMany([{task_id:501,task_name:"task1",notsubmitted:[{user_id:202},{user_id:227},{user_id:212},{user_id:223},{user_id:222}],topic_id:101},
+{task_id:502,task_name:"task2",notsubmitted:[{user_id:212},{user_id:227},{user_id:213},{user_id:223},{user_id:219}],topic_id:102},
+{task_id:503,task_name:"task3",notsubmitted:[{user_id:202},{user_id:227},{user_id:212},{user_id:223},{user_id:222}],topic_id:103},
+{task_id:504,task_name:"task4",notsubmitted:[{user_id:202},{user_id:227},{user_id:212},{user_id:223},{user_id:222}],topic_id:104},
+{task_id:505,task_name:"task5",notsubmitted:[{user_id:202},{user_id:227},{user_id:212},{user_id:223},{user_id:222}],topic_id:105},
+{task_id:506,task_name:"task6",notsubmitted:[{user_id:202},{user_id:227},{user_id:212},{user_id:223},{user_id:222}],topic_id:106}]);
+

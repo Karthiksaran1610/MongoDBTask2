@@ -1,0 +1,8 @@
+=>COMPANY_DRIVE:
+db.company_drive.insertMany([{company_id:601,company:"Microsoft Corporation",drive_date:new Date("2024-10-16")},
+{company_id:602,company:"Accenture",drive_date:new Date("2024-11-01")},
+{company_id:603,company:"Cognizant",drive_date:new Date("2024-10-26")},
+{company_id:604,company:"Infosys",drive_date:new Date("2024-09-16")},
+{company_id:605,company:"TCS",drive_date:new Date("2024-10-20")},
+{company_id:606,company:"SAP",drive_date:new Date("2024-12-06")}
+]);

@@ -1,0 +1,5 @@
+=>MENTORS:
+db.mentors.insertMany([{mentor_id:301,mentor_name:"Rupan"},
+{mentor_id:302,mentor_name:"Balasubramanian"},
+{mentor_id:303,mentor_name:"Chakravarthy"}
+]);
